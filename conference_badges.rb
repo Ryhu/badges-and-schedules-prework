@@ -5,7 +5,10 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(arr)
-  
+  arr.each do |name|
+    
+    
+  end
 end
 
 def assign_rooms(arr)
